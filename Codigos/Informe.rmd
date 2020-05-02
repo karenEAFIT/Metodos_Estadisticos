@@ -812,11 +812,12 @@ De ella se puede interpretar que por incremento del 10.5% de la tasa de desemple
 
 ##### <span style="color:#404d78"> **Repositorio** </span>
 
-El código realizado para la ejecución del presente trabajo se encuentra en el [ repositiorio git](https://github.com/KarenVelasquez181402/Metodos_Estadisticos) **https://github.com/KarenVelasquez181402/Metodos_Estadisticos**, en este repositorio se encuentraran el código con el cual fue desarrollado el presente trabajo, el código para la ejecución del informe y los set de datos utilizados para cumplir con el objetivo del mismo.
+El código realizado para la ejecución del presente trabajo se encuentra en el [ repositiorio git](https://github.com/karenEAFIT/Metodos_Estadisticos) *https://github.com/karenEAFIT/Metodos_Estadisticos**, en este repositorio se encuentraran el código con el cual fue desarrollado el presente trabajo, el código para la ejecución del informe y los set de datos utilizados para cumplir con el objetivo del mismo.
 
 
 ##### <span style="color:#404d78"> **Conclusiones** </span>
 * Para nuestro ejercicio a nivel general el PIB y la tasa de desempleo son dos factores macroeconómicos que inciden en la proporción,por lo cual esto puede generar un contexto del mercado para las empresas y les permitirá tomar  decisiones  antecipadamente  según el entorno nacional y local.
 *Se  evidenció quelos modelos mixtos dan una buena solución a problematicas  de este tipo donde  se involucre información a diferentes  escalas  (empresas, nación, departamento).
 Sin embargo, tambien  fue  claro  que  las  variables  locales  permites  una  mejor  caracterización, debido a que la realidad  local  puede  variar sustancialmente  de la realidad  nacional.
+
 
